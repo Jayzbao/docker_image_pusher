@@ -6,3 +6,6 @@ apache/rocketmq
 zookeepert
 openjdk:8-jdk
 docker.io/rabbitmq:3.8-management
+docker.io/rabbitmq:3.8-management
+python:3.10.0
+tancloud/hertzbeat
