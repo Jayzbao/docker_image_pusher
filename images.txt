@@ -3,6 +3,6 @@ redis
 nacos/nacos-server
 bitnami/kafka
 apache/rocketmq
-zookeeper
+zookeepert
 openjdk:8-jdk
-docker.io/rabbitmq:3.8-managemen
+docker.io/rabbitmq:3.8-management
