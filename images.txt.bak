@@ -13,3 +13,4 @@ grafana/grafana
 elasticsearch:7.17.0
 docker.elastic.co/kibana/kibana:7.17.14
 jenkins/jenkins:lts
+sonatype/nexus3
