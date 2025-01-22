@@ -4,4 +4,3 @@ nacos/nacos-server
 bitnami/kafka
 apache/rocketmq
 zookeeper
-consul
