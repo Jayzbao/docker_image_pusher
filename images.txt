@@ -1,1 +1,1 @@
-ubuntu/mysql:8.4-26.04_edge
+arm64v8/mysql
